@@ -1,0 +1,60 @@
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+D:\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+D:\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll
+D:\SMS\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+D:\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+D:\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\Users\Balraj Singh\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\Users\Manager\Desktop\SMS\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb

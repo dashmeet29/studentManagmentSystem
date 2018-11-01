@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Project.Master" AutoEventWireup="true" CodeBehind="AdminHome.master.cs" Inherits="Case_Study_A.AdminHome1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+     
+    <asp:Menu ID="Admin_Menu" runat="server" BackColor="#D3D3D3" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" Orientation="Horizontal" StaticSubMenuIndent="10px">
+        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+        <DynamicMenuItemStyle HorizontalPadding="45px" VerticalPadding="2px" />
+        <DynamicMenuStyle BackColor="#FFFBD6" />
+        <DynamicSelectedStyle BackColor="#FFCC66" />
+        <Items>
+            <asp:MenuItem Text="Student" Value="Student">
+                <asp:MenuItem Text="Add Student" Value="Add_Student" NavigateUrl="~/AddStudent.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Update Student" Value="Update_Student" NavigateUrl="~/UpdateStudent.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Delete Student" Value="Delete_Student" NavigateUrl="~/DeleteStudent.aspx"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AdminViewAllStudent.aspx" Text="View All Students" Value="View All Students"></asp:MenuItem>
+            </asp:MenuItem>
+            <asp:MenuItem Text="Course" Value="Course">
+                <asp:MenuItem Text="Add Course" Value="Add_Course" NavigateUrl="~/AddCourseaspx.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Update Course" Value="Update_Course" NavigateUrl="~/UpdateCourse.aspx"></asp:MenuItem>
+            </asp:MenuItem>
+            <asp:MenuItem Text="Faculty" Value="Faculty">
+                <asp:MenuItem Text="Add Faculty" Value="Add_Faculty" NavigateUrl="~/AddFaculty.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Update Faculty" Value="Update_Faculty" NavigateUrl="~/UpdateFaculty.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Delete Faculty" Value="Delete_Faculty" NavigateUrl="~/DeleteFaculty.aspx"></asp:MenuItem>
+            </asp:MenuItem>
+            <asp:MenuItem Text="Send Event Mail" Value="Send_Event_Mail" NavigateUrl="~/MailEventDetails.aspx"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="~/WelcomeAdmin.aspx" Text="Go to admin desk" Value="Go_to_admin_desk"></asp:MenuItem>
+        </Items>
+        <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+        <StaticMenuItemStyle HorizontalPadding="119px" VerticalPadding="12px" />
+        <StaticSelectedStyle BackColor="#FFCC66" />
+    </asp:Menu>
+    <br />
+    <asp:ContentPlaceHolder runat="server" ID="WelcomeAdmin"></asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder runat="server" ID="AddStudentContent"></asp:ContentPlaceHolder>
+     <asp:ContentPlaceHolder runat="server" ID="UpdateStudentContent"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="DeleteStudentContent"></asp:ContentPlaceHolder>
+      <asp:ContentPlaceHolder runat="server" ID="ViewAllStudents"></asp:ContentPlaceHolder>
+
+      <asp:ContentPlaceHolder runat="server" ID="AddCourseContent"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="UpdateCourseContent"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="DeleteCourseContent"></asp:ContentPlaceHolder>
+
+     <asp:ContentPlaceHolder runat="server" ID="AddFacultyContent"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="UpdateFacultyContent"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="DeleteFacultyContent"></asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder runat="server" ID="AddCollege"></asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder runat="server" ID="UpdateCollege"></asp:ContentPlaceHolder>
+     <asp:ContentPlaceHolder runat="server" ID="DeleteCollege"></asp:ContentPlaceHolder>
+
+
+<asp:ContentPlaceHolder runat="server" ID="GenerateResult"></asp:ContentPlaceHolder>
+<asp:ContentPlaceHolder runat="server" ID="SendEventMailContent"></asp:ContentPlaceHolder>
+   <%-- <asp:ContentPlaceHolder runat="server" ID=" SendMailContent"></asp:ContentPlaceHolder>--%>
+    
+
+   
+
+
+</asp:Content>

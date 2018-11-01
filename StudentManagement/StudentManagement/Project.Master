@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Project.master.cs" Inherits="Case_Study_A.Project" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link rel="stylesheet" href="Content\bootstrap.css" />
+    
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 400px;
+           
+        }
+    </style>
+</head>
+
+<body>
+   <div > 
+    <form id="form1" runat="server">
+        <div style="background-image:url(background3.jpg);height:1220px">
+    <header dir="auto">
+        
+        <table class="auto-style1" style="background-color:#808080; height: 10px; font-style:oblique; font-size:20px; color:black">
+            <tr>
+                <td class="auto-style2" style="align-content:flex-start">
+                    <a href="#"></a>
+                    <img src="logo.jpg" alt="Image" height="100" width="100" /></td>
+
+                <%--<asp:Image ID="Image1" runat="server" src="C:/Users/Manager/Desktop/Case_Study_A/thTK7EX89Z.jpg"/>--%>
+                
+                <td><h2 class="auto-style2" style="font-family:cursive" > &nbsp;Student Management Portal</h2></td>
+        <td><asp:LinkButton ID="lnk_Home" runat="server"  ForeColor="Black" PostBackUrl="~/Index.aspx" style="align-content:flex-end" CausesValidation="False" OnClick="lnk_Logout_Click">Logout</asp:LinkButton>
+ 
+                </td>
+        </tr>
+            </table>
+        
+           
+    </header>
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+            
+        
+
+        
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="StudentContent" runat="server"></asp:ContentPlaceHolder>
+            </div>
+    </form>
+       
+       </div>
+</body>
+</html>
